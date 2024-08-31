@@ -1,3 +1,5 @@
+// This queue is implemented with linked list
+
 #include<iostream>
 typedef long long ll;
 #define forr(i, j, k) for(ll i = j; i < k; i++)
